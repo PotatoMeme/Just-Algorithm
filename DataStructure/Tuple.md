@@ -33,5 +33,4 @@
 
 [자료구조] Tuple : https://velog.io/@taeha7b/datastructure-tuple
 
-리스트, 튜플, 사전, 집합 자료구조 (List, Tuple, Dictionary, and Set)
-출처: https://taekho-nology.tistory.com/82 [태코놀로지:티스토리]: https://taekho-nology.tistory.com/82
+리스트, 튜플, 사전, 집합 자료구조 (List, Tuple, Dictionary, and Set) : https://taekho-nology.tistory.com/82
