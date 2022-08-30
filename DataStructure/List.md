@@ -50,4 +50,4 @@
 
 리스트 (List): https://opentutorials.org/module/1335/8636
 
-[자료구조] 연결 리스트 (Linked list) : https://yoongrammer.tistory.com/43
+[자료구조] 연결 리스트 (Linked list) : https://yoongrammer.tistory.com/44?category=956616
