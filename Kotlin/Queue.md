@@ -19,7 +19,7 @@ LinkedList를 이용하여 생성된 Queue는 Capacity가 지정되어 있지 �
 
 Array가 있을 때는 list로 바꾿다음 LinkedList의 생성자에 넣어주면 됩니다
 
-LinkedList이외에도 구현하는 다양한 클래스가 존재한다.(AbstractQueue 등)
+LinkedList이외에도 구현하는 다양한 클래스가 존재한다.( AbstractQueue, ArrayBlockingQueue, ArrayDeque, ConcurrentLinkedDeque, ConcurrentLinkedQueue, DelayQueue, LinkedBlockingDeque, LinkedBlockingQueue, LinkedList, LinkedTransferQueue, PriorityBlockingQueue, PriorityQueue, SynchronousQueue 등)
 
 </br>
 
@@ -146,8 +146,6 @@ NoSuchElementException - if this queue is empty
     print(queue.peek()) // null
 
 <br/><br/>
-
-# 참고
 
 # 참고
 
